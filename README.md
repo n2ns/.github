@@ -1,6 +1,6 @@
 # N2NS Lab
 
-**N2NS Lab** (Next-to-Native Systems Lab) is [Datafrog](https://datafrog.io)'s open-source division — building local-first MCP tools for AI coding workflows.
+**N2NS Lab** is [Datafrog](https://datafrog.io)'s open-source division — building local-first MCP tools for AI coding workflows.
 
 ## Projects
 
