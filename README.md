@@ -18,7 +18,7 @@ MCP bridge for AI-assisted content publishing. Draft, edit, and publish to your 
 
 ### [antigravity-panel](https://github.com/n2ns/antigravity-panel) · [![Open VSX](https://img.shields.io/open-vsx/v/n2ns/antigravity-panel?label=open-vsx)](https://open-vsx.org/extension/n2ns/antigravity-panel)
 
-Community toolkit for Google Antigravity IDE. Quota dashboard, usage analytics, cache manager, auto-accept mode, and AI commit generator. 13 languages.
+Community toolkit for Google Antigravity IDE. Quota dashboard, usage analytics, cache manager, auto-accept mode, and AI commit generator. 15 languages.
 
 ---
 
