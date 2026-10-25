@@ -31,3 +31,7 @@ All tools are free and open-source. If they save you time, consider sponsoring:
 ---
 
 [datafrog.io](https://datafrog.io) · [n2ns.com](https://n2ns.com)
+
+## License
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
